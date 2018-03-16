@@ -1,0 +1,5 @@
+startsimulation ./hosts_untreated_right.sns hosts_untreated_right
+sleep 200
+simulation stop
+exit
+
