@@ -1,0 +1,6 @@
+set de.renew.classReinit=true
+startsimulation ./hosts_antibiotics_high_dosage.sns hosts_antibiotics_high_dosage
+sleep 200
+simulation stop
+exit
+
