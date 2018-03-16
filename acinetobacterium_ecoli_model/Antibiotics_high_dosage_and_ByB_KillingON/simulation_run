@@ -1,0 +1,5 @@
+startsimulation ./hosts_antibiotics_high_dosage_and_BbY.sns hosts_antibiotics_high_dosage_and_BbY
+sleep 200
+simulation stop
+exit
+
